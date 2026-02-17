@@ -108,7 +108,7 @@ This dashboard helps stakeholders:
 (Add screenshot here after uploading image to GitHub)
 
 Example:
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
